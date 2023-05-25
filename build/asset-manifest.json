@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goursunderpandey/Bookmyshow.git/static/css/main.cabbe473.css",
+    "main.js": "/goursunderpandey/Bookmyshow.git/static/js/main.0bf456b7.js",
+    "index.html": "/goursunderpandey/Bookmyshow.git/index.html",
+    "main.cabbe473.css.map": "/goursunderpandey/Bookmyshow.git/static/css/main.cabbe473.css.map",
+    "main.0bf456b7.js.map": "/goursunderpandey/Bookmyshow.git/static/js/main.0bf456b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cabbe473.css",
+    "static/js/main.0bf456b7.js"
+  ]
+}
